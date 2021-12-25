@@ -14,7 +14,7 @@
             </li>
         </ul>
         <p>
-            <router-link to="/login">Logout</router-link>
+            <router-link to="/lophoc">Lớp học</router-link><router-link to="/login">Logout</router-link>
         </p>
     </div>
 </template>
